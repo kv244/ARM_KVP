@@ -1,5 +1,7 @@
 # ⚡ Uno R4 KV Store (v1.2.0)
 
+[![Compile Firmware](https://github.com/kv244/ARM_KVP/actions/workflows/compile.yml/badge.svg)](https://github.com/kv244/ARM_KVP/actions/workflows/compile.yml)
+
 A high-performance, pipelined Key-Value store for the **Arduino Uno R4 WiFi**, featuring an optimized ARM Thumb assembly backend and a binary async protocol over USB-Serial.
 
 ---
